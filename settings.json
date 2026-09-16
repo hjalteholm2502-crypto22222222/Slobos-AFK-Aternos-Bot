@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HalleLifeStealSMP.aternos.me",
-    "port": 47600,
+    "ip": "",
+    "port": ,
     "version": "",
     "try-creative": false
   },
